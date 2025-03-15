@@ -18,4 +18,4 @@ Diseño de una sola página con secciones para educación, habilidades e histori
 metaetiquetas SEO en la sección principal.
 Etiquetas OG para un mejor intercambio de redes sociales.
 Un favicon unido en la sección de la cabeza.
-https://github.com/zausss/my-cv
+https://roadmap.sh/projects/single-page-cv
